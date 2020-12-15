@@ -40,6 +40,4 @@ Doughnut.create(name:"Strawberry Confetti", cost:"1.85", description:"Strawberry
 
 User.create(username: 'jojo', password: '123')
 
-Order.create(user_id: User.first.id)
-
 puts "Completed!"

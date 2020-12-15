@@ -1,5 +1,5 @@
 class OrderItemSerializer < ActiveModel::Serializer
-  attributes :id, :doughnut_id, :order_id
-    belongs_to :order 
+  attributes :id, :doughnut_id, :user_id
+    belongs_to :user 
     belongs_to :doughnut
 end
