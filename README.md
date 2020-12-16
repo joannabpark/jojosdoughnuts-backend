@@ -1,25 +1,3 @@
-# README
+Jojo's Doughnuts is an e-commerce web application. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# jojosdoughnuts-backend
+Users are able to login and add doughnuts into their carts, view their cart, checkout using Stripe, and view previously placed orders.
